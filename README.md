@@ -1,1 +1,1 @@
-This is a project that shows how I analyzed a Dataleum Hotel dataset. I cleaned and analysed the dataset with PowerBi, added new columns, measures and tables where needed and I used powerpoint for the presentation and my insights generated for the Dataleum Hotel to improve sales.
+This is a project that shows how I analyzed a Dataleum Hotel dataset. I cleaned and analysed the dataset with PowerBI, added new columns, measures and tables where needed and I used PowerPoint for the presentation and my insights generated for the Dataleum Hotel to improve sales.
